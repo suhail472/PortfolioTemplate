@@ -33,13 +33,13 @@ export default function Header() {
   ];
 
   return (
-    <header className="w-screen bg-slate-900/80 backdrop-blur-md fixed top-0 z-50 shadow-md border-2 border-sky-400">
+    <header className="w-screen bg-slate-900/80 backdrop-blur-md fixed top-0 z-50 shadow-md border-b-2 border-sky-400 box-border">
       <div className="max-w-7xl mx-auto flex justify-between items-center h-20 px-6 sm:px-10">
         <div className="text-2xl font-bold text-sky-400 animate-pulse">Suhail</div>
 
         <ul className="hidden md:flex gap-10 text-white font-medium">
           {navItems.map((item) => (
-            <li key={item.id} className="relative cursor-pointer">
+            <li key={item.id} className="relative cursor-pointer group">
               <a
                 href={`#${item.id}`}
                 className={`transition-colors ${

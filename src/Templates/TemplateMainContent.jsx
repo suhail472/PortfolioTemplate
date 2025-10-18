@@ -35,7 +35,7 @@ function TemplateMainData() {
     <>
       <section
         id="home"
-        className="flex flex-col items-center justify-center min-h-screen text-center bg-gradient-to-br from-slate-900 to-slate-800 text-white px-4"
+        className="flex flex-col items-center justify-center min-h-screen text-center bg-gradient-to-br from-slate-900 to-slate-800 text-white px-4 w-full box-border"
       >
         <h1 className="text-4xl sm:text-5xl font-bold mb-2 animate-fade-in">
           {text} ❤️
@@ -53,7 +53,7 @@ function TemplateMainData() {
 
       <section
         id="skills"
-        className="min-h-screen bg-gradient-to-br from-slate-900 to-slate-800 text-white flex flex-col items-center justify-center px-6 py-16"
+        className="min-h-screen w-full bg-gradient-to-br from-slate-900 to-slate-800 text-white flex flex-col items-center justify-center px-6 py-16 box-border"
       >
         <h2 className="text-4xl sm:text-5xl font-bold mb-10 text-center">
           My <span className="text-sky-400">Skills</span>
@@ -85,7 +85,7 @@ function TemplateMainData() {
 
       <section
         id="about"
-        className="min-h-screen bg-gradient-to-br from-slate-900 to-slate-800 text-white flex flex-col items-center justify-center px-6 py-16"
+        className="min-h-screen w-full bg-gradient-to-br from-slate-900 to-slate-800 text-white flex flex-col items-center justify-center px-6 py-16 box-border"
       >
         <h2 className="text-4xl sm:text-5xl font-bold mb-10 text-center">
           About <span className="text-sky-400">Me</span>
@@ -103,21 +103,11 @@ function TemplateMainData() {
               Hi, I'm Suhail 👋
             </h3>
             <p className="text-slate-300 leading-relaxed mb-4">
-              I'm a passionate{" "}
-              <span className="font-semibold text-white">
-                Full Stack Developer
-              </span>
-              with a strong focus on building clean, modern, and scalable web
-              applications. I love turning complex problems into elegant
-              solutions using the latest web technologies.
+              I'm a passionate <span className="font-semibold text-white">Full Stack Developer</span> 
+              with a strong focus on building clean, modern, and scalable web applications. I love turning complex problems into elegant solutions using the latest web technologies.
             </p>
             <p className="text-slate-400 leading-relaxed mb-6">
-              My toolkit includes{" "}
-              <span className="text-sky-300 font-medium">
-                React, Node.js, Express, and MongoDB
-              </span>
-              . I’m always eager to learn, experiment, and grow as a developer
-              while contributing to real-world projects.
+              My toolkit includes <span className="text-sky-300 font-medium">React, Node.js, Express, and MongoDB</span>. I’m always eager to learn, experiment, and grow as a developer while contributing to real-world projects.
             </p>
             <button className="px-6 py-3 bg-sky-400 text-slate-900 font-semibold rounded-full hover:bg-sky-500 transition-transform transform hover:scale-105">
               Download Resume
@@ -128,15 +118,14 @@ function TemplateMainData() {
 
       <section
         id="contact"
-        className="min-h-screen bg-gradient-to-br from-slate-900 to-slate-800 text-white flex flex-col items-center justify-center px-6 py-16"
+        className="min-h-screen w-full bg-gradient-to-br from-slate-900 to-slate-800 text-white flex flex-col items-center justify-center px-6 py-16 box-border"
       >
         <h2 className="text-4xl sm:text-5xl font-bold mb-10 text-center">
           Contact <span className="text-sky-400">Me</span>
         </h2>
         <div className="w-full max-w-3xl bg-slate-800/50 backdrop-blur-md border border-slate-700 rounded-2xl shadow-xl p-8 sm:p-10 animate-fade-in-up">
           <p className="text-center text-slate-300 mb-8">
-            Got a project in mind or just want to say hi? Fill out the form
-            below and I’ll get back to you as soon as possible!
+            Got a project in mind or just want to say hi? Fill out the form below and I’ll get back to you as soon as possible!
           </p>
           <form className="flex flex-col gap-4">
             <input
@@ -162,16 +151,9 @@ function TemplateMainData() {
             </button>
           </form>
           <div className="flex flex-col sm:flex-row justify-center items-center gap-6 mt-8 text-slate-300">
-            <p>
-              Email:{" "}
-              <span className="text-sky-400">suhailhilal92@gmail.com</span>
-            </p>
-            <p>
-              Phone: <span className="text-sky-400">+91 9797935307</span>
-            </p>
-            <p>
-              Location: <span className="text-sky-400">Srinagar, Kashmir</span>
-            </p>
+            <p>Email: <span className="text-sky-400">suhailhilal92@gmail.com</span></p>
+            <p>Phone: <span className="text-sky-400">+91 9797935307</span></p>
+            <p>Location: <span className="text-sky-400">Srinagar, Kashmir</span></p>
           </div>
         </div>
       </section>
