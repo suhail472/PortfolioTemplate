@@ -40,13 +40,13 @@ function TemplateMainData() {
         <h1 className="text-4xl sm:text-5xl font-bold mb-2 animate-fade-in">
           {text} ❤️
         </h1>
-        <h2 className="text-2xl sm:text-3xl font-medium text-slate-900 mb-4 inline-block px-4 py-2 rounded-lg bg-sky-400 animate-pulse">
-          Full Stack Developer
+        <h2 className="text-2xl sm:text-3xl font-medium mb-4 inline-block px-4 py-2 rounded-lg bg-slate-500/10 animate-pulse">
+          <span className="animate-none text-sky-500">Full Stack Developer</span>
         </h2>
         <p className="text-lg text-slate-300 mb-6 max-w-md">
           I build modern, responsive, and user-focused web applications.
         </p>
-        <button className="px-6 py-3 bg-sky-400 text-slate-900 font-semibold rounded-full hover:bg-sky-500 transition-transform transform hover:scale-105">
+        <button className="px-6 py-3 bg-sky-400 text-slate-900 font-semibold rounded-full hover:bg-sky-500 transition-transform transform hover:scale-105 animate-bounce">
           View My Work
         </button>
       </section>
