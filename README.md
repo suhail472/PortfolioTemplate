@@ -30,6 +30,15 @@ A **modern, responsive, and visually stunning portfolio template** built with **
 
 ---
 
+
+
+---
+## 📄 License
+
+This project is **open-source**. You are free to **use, modify, and distribute** this portfolio template for personal or commercial purposes.  
+
+Licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
+
 ## ⚙️ Installation & Local Development
 
 1. Clone the repository:
@@ -37,12 +46,4 @@ A **modern, responsive, and visually stunning portfolio template** built with **
 ```bash
 git clone https://github.com/YOUR_USERNAME/ShareFolio.git
 cd ShareFolio
-
-
-## 📄 License
-
-This project is **open-source**. You are free to **use, modify, and distribute** this portfolio template for personal or commercial purposes.  
-
-Licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
-
 
