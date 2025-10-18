@@ -44,6 +44,6 @@ Licensed under the **MIT License** – see the [LICENSE](LICENSE) file for detai
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/suhail472/ShareFolio.git
+git clone https://github.com/suhail472/PortfolioTemplate.git
 cd ShareFolio
 
