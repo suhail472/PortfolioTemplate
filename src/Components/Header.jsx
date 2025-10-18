@@ -37,7 +37,6 @@ export default function Header() {
       <div className="max-w-7xl mx-auto flex justify-between items-center h-20 px-6 sm:px-10">
         <div className="text-2xl font-bold text-sky-400 animate-pulse">Suhail</div>
 
-        {/* Desktop Menu */}
         <ul className="hidden md:flex gap-10 text-white font-medium">
           {navItems.map((item) => (
             <li key={item.id} className="relative cursor-pointer">
@@ -50,7 +49,6 @@ export default function Header() {
                 {item.label}
               </a>
 
-              {/* Underline */}
               <span
                 className={`absolute left-0 -bottom-1 h-0.5 bg-sky-400 transition-all duration-300 ${
                   activeSection === item.id ? "w-full" : "w-0 group-hover:w-full"
@@ -60,7 +58,6 @@ export default function Header() {
           ))}
         </ul>
 
-        {/* Mobile Hamburger */}
         <div className="md:hidden flex items-center">
           <button
             onClick={() => setIsOpen(!isOpen)}
@@ -71,7 +68,6 @@ export default function Header() {
         </div>
       </div>
 
-      {/* Mobile Menu */}
       {isOpen && (
         <div className="md:hidden bg-slate-800/90 backdrop-blur-md w-full py-6 flex flex-col items-center gap-6 text-white font-medium text-lg">
           {navItems.map((item) => (
