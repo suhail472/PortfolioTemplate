@@ -67,4 +67,9 @@ https://your-username.github.io/PortFolio-Template/
 License
 
 This project is licensed under the MIT License
->>>>>>> 53493dd79ba4dd4521568ee4df7427a4f6f307b7
+## 📄 License
+
+This project is **open-source**. You are free to **use, modify, and distribute** this portfolio template for personal or commercial purposes.  
+
+Licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
+>>>>>>> 53493dd79ba4dd4521568ee4df7427a4f6f307b

@@ -2,7 +2,7 @@ function ContactUs()
 {
     return(<>
 
-             <section
+    <section
         id="contact"
         className="min-h-screen w-full bg-gradient-to-br from-slate-900 to-slate-800 text-white flex flex-col items-center justify-center px-6 py-16 box-border"
       >

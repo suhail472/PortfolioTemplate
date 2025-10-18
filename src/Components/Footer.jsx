@@ -30,5 +30,6 @@ export default function Footer() {
         © {new Date().getFullYear()} Suhail Hilal. All rights reserved.
       </p>
     </footer>
+    
   );
 }

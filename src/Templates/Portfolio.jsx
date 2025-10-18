@@ -1,5 +1,5 @@
 import Header from "../Components/Header";
-import TemplateMainData from "./TemplateMainContent";
+import TemplateMainData from "./PortfolioMainContent";
 import Footer from "../Components/Footer";
 
 function Template() {

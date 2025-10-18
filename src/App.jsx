@@ -1,4 +1,4 @@
-import Template from "./Templates/Template";
+import Template from "./Templates/Portfolio";
 function app() {
   return (
     <>

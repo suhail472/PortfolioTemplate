@@ -5,7 +5,7 @@ function About ()
 
       <section
         id="about"
-        className="min-h-screen w-full bg-gradient-to-br from-slate-900 to-slate-800 text-white flex flex-col items-center justify-center px-6 py-16 box-border"
+        className="min-h-screen w-full bg-gradient-to-br from-slate-900 to-slate-800 text-white flex flex-col items-center justify-center px-6 py-16 box-border hover:shadow-lg"
       >
         <h2 className="text-4xl sm:text-5xl font-bold mb-10 text-center">
           About <span className="text-sky-400">Me</span>
@@ -35,7 +35,6 @@ function About ()
           </div>
         </div>
       </section>
-    
     </>)
 }
 export default About

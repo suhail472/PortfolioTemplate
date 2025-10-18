@@ -10,7 +10,6 @@ function TemplateMainData() {
 
   return (
     <>
-        
       <Home/>
       <Skills/>
       <About />
