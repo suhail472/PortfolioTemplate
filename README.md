@@ -55,6 +55,22 @@ PortfolioTemplate/
 
 
 ---
+##📄 License
+
+**This project is open-source. You are free to use, modify, and distribute this portfolio template for personal or commercial purposes.**
+
+**Licensed under the MIT License – see the LICENSE**
+ ** file for details. **
+
+## 👨‍💻 Author
+
+**Suheel Hilal**  
+
+- GitHub: [https://github.com/suhail472](https://github.com/suhail472)  
+- LinkedIn: [https://www.linkedin.com/in/YOUR_PROFILE/](https://www.linkedin.com/in/YOUR_PROFILE/)  
+- Email: suheelhilal92@gmail.com  
+
+---
 
 ## ⚙️ Installation & Local Development
 
@@ -92,21 +108,6 @@ npm run build
 
 3. **Your portfolio will be live on your chosen URL.**
 
-##📄 License
 
-**This project is open-source. You are free to use, modify, and distribute this portfolio template for personal or commercial purposes.**
-
-**Licensed under the MIT License – see the LICENSE**
- ** file for details. **
-
-## 👨‍💻 Author
-
-**Suheel Hilal**  
-
-- GitHub: [https://github.com/suhail472](https://github.com/suhail472)  
-- LinkedIn: [https://www.linkedin.com/in/YOUR_PROFILE/](https://www.linkedin.com/in/YOUR_PROFILE/)  
-- Email: suheelhilal92@gmail.com  
-
----
 
 
