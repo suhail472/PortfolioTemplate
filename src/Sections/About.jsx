@@ -1,4 +1,4 @@
-import Profile from "../Images/Template/profileImg.png";
+import Profile from "../Images/Template/image.png";
 import TextType from "../Components/TextTyping/TextTyping";
 function About() {
   return (
@@ -36,7 +36,7 @@ function About() {
               <span className="font-semibold text-white">
                 Full Stack Developer
               </span>
-              with a strong focus on building clean, modern, and scalable web
+             {" "}c with a strong focus on building clean, modern, and scalable web
               applications. I love turning complex problems into elegant
               solutions using the latest web technologies.
             </p>
