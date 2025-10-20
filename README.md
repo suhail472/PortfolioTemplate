@@ -59,16 +59,17 @@ PortfolioTemplate/
 
 **This project is open-source. You are free to use, modify, and distribute this portfolio template for personal or commercial purposes.**
 
-**Licensed under the MIT License – see the LICENSE**
- ** file for details. **
+**Licensed under the MIT License – see the LICENSE here : [https://github.com/suhail472/PortfolioTemplate/blob/main/LICENSE](https://github.com/suhail472/PortfolioTemplate/blob/main/LICENSE)**
+ ** **
 
 ## 👨‍💻 Author
 
 **Suheel Hilal**  
 
 - GitHub: [https://github.com/suhail472](https://github.com/suhail472)  
-- LinkedIn: [https://www.linkedin.com/in/YOUR_PROFILE/](https://www.linkedin.com/in/YOUR_PROFILE/)  
-- Email: suheelhilal92@gmail.com  
+- LinkedIn: [https://www.linkedin.com/in/suheel-hilal-25654833b/](https://www.linkedin.com/in/suheel-hilal-25654833b/)
+- Instagram: [https://www.instagram.com/suhail.hilal88/](https://www.instagram.com/suhail.hilal88/)
+- Email: suheelhilal92@gmail.com
 
 ---
 
